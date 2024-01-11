@@ -108,7 +108,7 @@ const setConfigAction = (state: { config: any }, action: { payload: any }) => {
 };
 
 export {
-  setInitialState,
+  
   addToCartAction,
   plusAction,
   minusAction,
